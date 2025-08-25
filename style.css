@@ -199,7 +199,7 @@ a:hover::after {
     border-radius: 50%;
 }
 
-.job::after {
+/* .job::after {
     content: '';
     position: absolute;
     left: 5px;
@@ -207,7 +207,7 @@ a:hover::after {
     height: 20px;
     width: 2px;
     background: var(--primary-color);
-}
+} */
 
 .main-ru {
     display: none;
